@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fiji Coffee Service Report</string>
+    <string name="select_type">Select Type</string>
+    <string name="select_technician">Select Technician</string>
+    <string name="select_machine">Select Machine Type</string>
+    <string name="select_fault">Select Fault Type</string>
+    <string name="enter_customer_name">Enter customer name</string>
+    <string name="enter_fault_details">Enter fault details…</string>
+    <string name="enter_fix_details">Enter fix details…</string>
+    <string name="enter_final_comments">Enter final comments…</string>
+    <string name="enter_duration">Enter duration (e.g., 2 hours)</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="select_images">Select Images</string>
+    <string name="max_images_error">Maximum 10 images allowed</string>
+    <string name="pdf_generation_error">Error generating PDF: %1$s</string>
+    <string name="share_report">Share Service Report</string>
+</resources>
